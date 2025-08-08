@@ -14,6 +14,9 @@
 • Amo coisas antigas 👵
 • Amo experimentar comidinhas diferentes 🥘
 • Meu hobbie favorito é assistir pessoas cozinhando 👩🏾‍🍳
-src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+
+##FERRAMENTAS:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 
 
